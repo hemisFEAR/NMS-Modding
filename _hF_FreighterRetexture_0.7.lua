@@ -4,10 +4,10 @@ DIFFUSEP1X = "TEXTURES/COMMON/SPACECRAFT/INDUSTRIAL/SHARED/FREIGHTER_PROC.PAINT1
 
 NMS_MOD_DEFINITION_CONTAINER = 
 {
-["MOD_FILENAME"]	= "_hF_FreighterRetexture_0.6.pak",
+["MOD_FILENAME"]	= "_hF_FreighterRetexture_0.7.pak",
 ["MOD_AUTHOR"]		= "hemis FEAR",
 ["LUA_AUTHOR"]		= "Lowkie",
-["NMS_VERSION"]		= "0.6",
+["NMS_VERSION"]		= "0.7",
 ["MOD_DESCRIPTION"]	= "Fixes the chipped paint look of the Freighter",
 ["MODIFICATIONS"]	= 
 	{
