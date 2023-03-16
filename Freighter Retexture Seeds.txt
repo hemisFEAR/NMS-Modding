@@ -7,7 +7,7 @@ Below you will find seeds as well as their sources. I will also provide a short 
 Note that Home Seeds aren't important anymore. You can keep it the same. However for those who are new to seed swapping, I will provide a home seed,
 one which can be used with any model seed below: 0x50003668D82
 
-Link to Davoodinator's Github page: https://github.com/davoodinator/NMS_Seeds/
+Link to Davoodinator's Github page: https://github.com/davoodinator/NMS_Seeds/     (TIP: Seeds are the photo filenames themselves)
 Link to NMSeeds.club: https://nmseeds.club
 
 -----------------------------------------------------
