@@ -20,7 +20,7 @@ Model Seed: 0x55432B9AC2D9ED37 (Metallic - Golden Freighter) (From NMSeeds.club)
 Model Seed: 0xF684A62CF6E1E30 (Metallic - Golden Freighter) (From Davoodinator)
 Model Seed: 0xA323D839E83D2A76 (Metallic - Golden Freighter) (Found by Myself)
 Model Seed: 0xE76D62E7A80A12B7 (Metallic - Golden Freighter) (From Davoodinator)
-Model Seed: 0xE115D6D35514F777 (Metallic - Golden Freighter) (Compact Venator w/ Canopy) (From Davoodinator)
+Model Seed: 0xE115D6D35514F777 (Metallic - Golden Freighter) (Compact Venator w/ Spoiler Canopy) (Pictured in old photos) (From Davoodinator)
 Model Seed: 0xB044F9C93750832C (Metallic - Golden Freighter) (Large Sentinel Dreadnought w/ Cargo Boxes) (NMSeeds.club)
 Model Seed: 0x9DCA4459BE39AB31 (Metallic - Golden Freighter) (Medium Sentinel w/ Hotel & Cargo Boxes) (Found by Myself)
 
