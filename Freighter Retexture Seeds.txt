@@ -1,0 +1,39 @@
+In this, you will find Freighter seeds that I or others have discovered (please feel free to submit your own), which look good with my mod: hF's Freighter Retexture (0.81).
+Most are Metallic and are thus capable of being Golden Freighters, but so far I have only found Compact Venator's & Sentinels as being capable of this. That doesn't mean
+Metallic Resurgent Class Freighters don't exist, however. It could just mean that I've yet to find one.
+
+Below you will find seeds as well as their sources. I will also provide a short guide meant to get you started with swapping seeds.
+
+Note that Home Seeds aren't important anymore. You can keep it the same. However for those who are new to seed swapping, I will provide a home seed,
+one which can be used with any model seed below: 0x50003668D82
+
+Link to Davoodinator's Github page: https://github.com/davoodinator/NMS_Seeds/
+Link to NMSeeds.club: https://nmseeds.club
+
+-----------------------------------------------------
+
+SEEDS:
+
+Model Seed: 0x888576E7F3A805EB (Non-Metallic) (Large Star Destroyer) (From NMSeeds.club) (Pictured in photos - both Red & White)
+Model Seed: 0xE22DAB94F12CEB19 (Non-Metallic) (Compact Venator w/ Canopy Spoiler) (From Davoodinator) (Pictured in photos - Black)
+Model Seed: 0x55432B9AC2D9ED37 (Metallic - Golden Freighter) (From NMSeeds.club)
+Model Seed: 0xF684A62CF6E1E30 (Metallic - Golden Freighter) (From Davoodinator)
+Model Seed: 0xA323D839E83D2A76 (Metallic - Golden Freighter) (Found by Myself)
+Model Seed: 0xE76D62E7A80A12B7 (Metallic - Golden Freighter) (From Davoodinator)
+Model Seed: 0xE115D6D35514F777 (Metallic - Golden Freighter) (Compact Venator w/ Canopy) (From Davoodinator)
+Model Seed: 0xB044F9C93750832C (Metallic - Golden Freighter) (Large Sentinel Dreadnought w/ Cargo Boxes) (NMSeeds.club)
+Model Seed: 0x9DCA4459BE39AB31 (Metallic - Golden Freighter) (Medium Sentinel w/ Hotel & Cargo Boxes) (Found by Myself)
+
+-----------------------------------------------------
+
+Basic How To:
+
+You will need either NMS Save Editor (by goatfungus) or NomNom Save Editor (by zencq). I personally use NMS Save Editor, but NomNom will work just fine for this as well.
+
+After you've downloaded and installed your Save Editor, you'll open it up, select your appropriate NMS save, go to the "Freighter" section, and replace the "Model Seed"
+with the one you've selected from above (or elsewhere for that matter). Again, you don't need to replace the "Home Seed" as it's practically obsolete nowadays, but if you must, use the one up above. 
+Be sure to save your changes before exiting. If ever a seed is invalid, NMS Save Editor will prevent you from saving those changes. I do not know if NomNom does this, but it's a good feature to have
+-- as the last thing you want to do is to brick your save over a freighter seed!
+
+Link to NMS Save Editor:
+https://github.com/goatfungus/NMSSaveEditor
