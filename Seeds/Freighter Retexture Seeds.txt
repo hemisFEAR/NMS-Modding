@@ -1,6 +1,5 @@
 In this, you will find Freighter seeds that I or others have discovered (please feel free to submit your own), which look good with my mod: hF's Freighter Retexture (0.81).
-Most are Metallic and are thus capable of being Golden Freighters, but so far I have only found Compact Venator's & Sentinels as being capable of this. That doesn't mean
-Metallic Resurgent Class Freighters don't exist, however. It could just mean that I've yet to find one.
+Most are Metallic and are thus capable of being Golden Freighters. I just found my first Golden-capable Resurgent Class Freighter yesterday and she's a beaut... 
 
 Below you will find seeds as well as their sources. I will also provide a short guide meant to get you started with swapping seeds.
 
@@ -15,6 +14,8 @@ Link to NMSeeds.club: https://nmseeds.club
 SEEDS:
 
 --- VENATORS AND SENTINELS ---
+
+Model Seed: 0x505D5D0CA4C0CC6D (Metallic - Golden Freighter) (Large Star Destroyer / Resurgent Class) (Found by Myself)
 
 Model Seed: 0x888576E7F3A805EB (Non-Metallic) (Large Star Destroyer) (From NMSeeds.club) (Pictured in photos - both Red & White)
 Model Seed: 0xE22DAB94F12CEB19 (Non-Metallic) (Compact Venator w/ Canopy Spoiler) (From Davoodinator) (Pictured in photos - Black)
